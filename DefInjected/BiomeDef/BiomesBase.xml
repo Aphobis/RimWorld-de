@@ -4,7 +4,7 @@
   <!-- ======== Unlandable biomes ==========-->
   
 	<Ocean.label>Ozean</Ocean.label>
-	<Ocean.description>Eine großer Ozean. Sehr gut für Fische, weniger gut für dich.</Ocean.description>	
+	<Ocean.description>Ein großer Ozean. Sehr gut für Fische, weniger gut für dich.</Ocean.description>	
 	
 	<IceSheet.label>Eisdecke</IceSheet.label>
 	<IceSheet.description>Eine dicke Eisdecke bedeckt die Landschaft. Hier findet sich kein Zugang zum Erdboden oder Felsen, deswegen gibt es hier auch keine Pflanzen. Die einzigen Tiere, die man hier findet sind auf der Durchreise in andere Gefilde - oder haben sich hoffnungslos verlaufen.</IceSheet.description>	
